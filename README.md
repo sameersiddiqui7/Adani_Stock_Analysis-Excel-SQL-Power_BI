@@ -256,7 +256,7 @@ Enhance the dashboard by integrating moving averages, RSI, MACD, Bollinger Bands
 
 # 📷 Dashboard Preview
 
-> *Add screenshots of the dashboard here.*
+> *<img width="605" height="335" alt="image" src="https://github.com/user-attachments/assets/08489e87-77b0-4676-8276-f6537b989f93" />
 
 ---
 
