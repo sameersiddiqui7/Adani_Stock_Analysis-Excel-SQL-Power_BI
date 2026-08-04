@@ -1,6 +1,8 @@
 # 📈 Adani Stock Data Analysis Dashboard
 
 ## 📌 Project Overview
+<img width="610" height="341" alt="Adani Dashboard" src="https://github.com/user-attachments/assets/54b37c09-6af0-4517-b7ce-6aa94504e574" />
+
 
 This project presents an interactive **Power BI Stock Market Dashboard** built using Adani stock price data. The dashboard analyzes historical stock performance through multiple KPIs, including **Open Price, Close Price, 52-Week High & Low, Trading Volume, and Quarterly Trends**. Interactive filters enable users to explore stock performance across different years, quarters, months, and days.
 
